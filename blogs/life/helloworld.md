@@ -5,4 +5,4 @@ categories:
     - 生活
 ---
 
-This is world.
+测试自动部署

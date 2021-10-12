@@ -1,6 +1,6 @@
 ---
 title: 关于我
-date: 2020-10-12
+date: 2021-10-12
 categories:
     - other
 ---
